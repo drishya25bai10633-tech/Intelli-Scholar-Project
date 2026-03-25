@@ -18,6 +18,7 @@ The project is organized for modularity and evaluation:
 * `knowledge.pl`: The Prolog Knowledge Base containing prerequisite rules and facts.
 * `statement.md`: Contains the problem statement, project scope, and target users.
 * `README.md`: Project overview and setup instructions.
+* `assets/`: Contains the screenshots to testing of the project.
 
 🛠️ **Technology Stack**
 * **Language:** Python 3 & Prolog.
