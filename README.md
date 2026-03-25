@@ -31,7 +31,7 @@ The project is organized for modularity and evaluation:
 4. **Run the application:** `python main.py`
 
 ✔️ **Instructions for Testing**
-Use Option 1 for **GPA Prediction** and Option 2 for **Enrollment Check**:
+Use Option 1 for **GPA Prediction**, Option 2 for **Enrollment Check** and Option 3 for **Career Roadmap Suggestion**:
 * **Case 1:** Input 8 study hours and 95% attendance to see the ML prediction.
 * **Case 2:** Enter name: `drishya` and course: `machine_learning` to see the logic check results.
 * **Case 3:** Ener name: `drishya` to see the roadmap suggestion.
